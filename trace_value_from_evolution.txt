@@ -1,0 +1,49 @@
+The index value for the file evolution_of_the_1st_byte.csv is 1520
+the key is 0x0
+Max value: -0.120758
+The index value for the file evolution_of_the_2nd_byte.csv is 2833
+the key is 0x1
+Max value: -0.118774
+The index value for the file evolution_of_the_3rd_byte.csv is 1001
+the key is 0x2
+Max value: -0.18931
+The index value for the file evolution_of_the_4th_byte.csv is 9459
+the key is 0x3
+Max value: -0.147236
+The index value for the file evolution_of_the_5th_byte.csv is 1280
+the key is 0x4
+Max value: -0.155857
+The index value for the file evolution_of_the_6th_byte.csv is 1002
+the key is 0x5
+Max value: -0.138891
+The index value for the file evolution_of_the_7th_byte.csv is 1894
+the key is 0x6
+Max value: -0.142287
+The index value for the file evolution_of_the_8th_byte.csv is 1181
+the key is 0x7
+Max value: -0.146337
+The index value for the file evolution_of_the_9th_byte.csv is 2048
+the key is 0x8
+Max value: -0.12893
+The index value for the file evolution_of_the_10th_byte.csv is 9996
+the key is 0x9
+Max value: -0.111902
+The index value for the file evolution_of_the_11th_byte.csv is 1172
+the key is 0xa
+Max value: -0.162934
+The index value for the file evolution_of_the_12th_byte.csv is 4596
+the key is 0xb
+Max value: -0.136529
+The index value for the file evolution_of_the_13th_byte.csv is 1690
+the key is 0xc
+Max value: -0.0908661
+The index value for the file evolution_of_the_14th_byte.csv is 4004
+the key is 0xd
+Max value: 0.100247
+The index value for the file evolution_of_the_15th_byte.csv is 4652
+the key is 0xe
+Max value: -0.139538
+The index value for the file evolution_of_the_16th_byte.csv is 1539
+the key is 0xf
+Max value: -0.139914
+the mean value is: 3116.6875

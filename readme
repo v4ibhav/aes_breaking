@@ -1,0 +1,3 @@
+To completely run the assignment:-
+step1: run aesbreaking.cpp==> this will create 16 correlation files  and 16 evolution files.
+step2: run thescript.py ==> this will create output as txt files and plots.

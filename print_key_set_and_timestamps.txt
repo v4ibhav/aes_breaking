@@ -1,0 +1,80 @@
+For file correlation_256x400_for_1st_byte.csv:
+  1. The smallest pearson coefficient is: -0.117301, the key is 0x0, the time stamp is 43
+  1. The largest pearson coefficient is: 0.117301, the key is 0xff, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.110173, the key is 0xff, the time stamp is 37
+  2. The previous largest pearson coefficient is: 0.110173, the key is 0x0, the time stamp is 37
+For file correlation_256x400_for_2nd_byte.csv:
+  1. The smallest pearson coefficient is: -0.114948, the key is 0x1, the time stamp is 43
+  1. The largest pearson coefficient is: 0.114948, the key is 0xfe, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.105766, the key is 0xfe, the time stamp is 37
+  2. The previous largest pearson coefficient is: 0.105766, the key is 0x1, the time stamp is 37
+For file correlation_256x400_for_3rd_byte.csv:
+  1. The smallest pearson coefficient is: -0.160848, the key is 0x2, the time stamp is 43
+  1. The largest pearson coefficient is: 0.160848, the key is 0xfd, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.131519, the key is 0xa, the time stamp is 43
+  2. The previous largest pearson coefficient is: 0.131519, the key is 0xf5, the time stamp is 43
+For file correlation_256x400_for_4th_byte.csv:
+  1. The smallest pearson coefficient is: -0.145542, the key is 0x3, the time stamp is 43
+  1. The largest pearson coefficient is: 0.145542, the key is 0xfc, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.1382, the key is 0xfc, the time stamp is 37
+  2. The previous largest pearson coefficient is: 0.1382, the key is 0x3, the time stamp is 37
+For file correlation_256x400_for_5th_byte.csv:
+  1. The smallest pearson coefficient is: -0.132193, the key is 0x4, the time stamp is 43
+  1. The largest pearson coefficient is: 0.132193, the key is 0xfb, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.124977, the key is 0xfb, the time stamp is 37
+  2. The previous largest pearson coefficient is: 0.124977, the key is 0x4, the time stamp is 37
+For file correlation_256x400_for_6th_byte.csv:
+  1. The smallest pearson coefficient is: -0.118003, the key is 0x85, the time stamp is 43
+  1. The largest pearson coefficient is: 0.118003, the key is 0x7a, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.109058, the key is 0x5, the time stamp is 43
+  2. The previous largest pearson coefficient is: 0.109058, the key is 0xfa, the time stamp is 43
+For file correlation_256x400_for_7th_byte.csv:
+  1. The smallest pearson coefficient is: -0.131147, the key is 0x6, the time stamp is 43
+  1. The largest pearson coefficient is: 0.131147, the key is 0xf9, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.117588, the key is 0xf9, the time stamp is 38
+  2. The previous largest pearson coefficient is: 0.117588, the key is 0x6, the time stamp is 38
+For file correlation_256x400_for_8th_byte.csv:
+  1. The smallest pearson coefficient is: -0.11538, the key is 0xf8, the time stamp is 37
+  1. The largest pearson coefficient is: 0.11538, the key is 0x7, the time stamp is 37
+  2. The previous smallest pearson coefficient is: -0.11327, the key is 0x7, the time stamp is 43
+  2. The previous largest pearson coefficient is: 0.11327, the key is 0xf8, the time stamp is 43
+For file correlation_256x400_for_9th_byte.csv:
+  1. The smallest pearson coefficient is: -0.112411, the key is 0x8, the time stamp is 43
+  1. The largest pearson coefficient is: 0.112411, the key is 0xf7, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.104924, the key is 0xa, the time stamp is 43
+  2. The previous largest pearson coefficient is: 0.104924, the key is 0xf5, the time stamp is 43
+For file correlation_256x400_for_10th_byte.csv:
+  1. The smallest pearson coefficient is: -0.112571, the key is 0xf6, the time stamp is 38
+  1. The largest pearson coefficient is: 0.112571, the key is 0x9, the time stamp is 38
+  2. The previous smallest pearson coefficient is: -0.112022, the key is 0xf6, the time stamp is 37
+  2. The previous largest pearson coefficient is: 0.112022, the key is 0x9, the time stamp is 37
+For file correlation_256x400_for_11th_byte.csv:
+  1. The smallest pearson coefficient is: -0.120425, the key is 0xa, the time stamp is 43
+  1. The largest pearson coefficient is: 0.120425, the key is 0xf5, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.102555, the key is 0x1a, the time stamp is 43
+  2. The previous largest pearson coefficient is: 0.102555, the key is 0xe5, the time stamp is 43
+For file correlation_256x400_for_12th_byte.csv:
+  1. The smallest pearson coefficient is: -0.123238, the key is 0xb, the time stamp is 43
+  1. The largest pearson coefficient is: 0.123238, the key is 0xf4, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.117831, the key is 0xf4, the time stamp is 38
+  2. The previous largest pearson coefficient is: 0.117831, the key is 0xb, the time stamp is 38
+For file correlation_256x400_for_13th_byte.csv:
+  1. The smallest pearson coefficient is: -0.0844953, the key is 0xc, the time stamp is 43
+  1. The largest pearson coefficient is: 0.0844953, the key is 0xf3, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.0792567, the key is 0xf3, the time stamp is 37
+  2. The previous largest pearson coefficient is: 0.0792567, the key is 0xc, the time stamp is 37
+For file correlation_256x400_for_14th_byte.csv:
+  1. The smallest pearson coefficient is: -0.123171, the key is 0xb2, the time stamp is 37
+  1. The largest pearson coefficient is: 0.123171, the key is 0x4d, the time stamp is 37
+  2. The previous smallest pearson coefficient is: -0.113971, the key is 0xf2, the time stamp is 37
+  2. The previous largest pearson coefficient is: 0.113971, the key is 0xd, the time stamp is 37
+For file correlation_256x400_for_15th_byte.csv:
+  1. The smallest pearson coefficient is: -0.125166, the key is 0xe, the time stamp is 43
+  1. The largest pearson coefficient is: 0.125166, the key is 0xf1, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.11871, the key is 0xf1, the time stamp is 37
+  2. The previous largest pearson coefficient is: 0.11871, the key is 0xe, the time stamp is 37
+For file correlation_256x400_for_16th_byte.csv:
+  1. The smallest pearson coefficient is: -0.116368, the key is 0xf, the time stamp is 43
+  1. The largest pearson coefficient is: 0.116368, the key is 0xf0, the time stamp is 43
+  2. The previous smallest pearson coefficient is: -0.104277, the key is 0x4f, the time stamp is 43
+  2. The previous largest pearson coefficient is: 0.104277, the key is 0xb0, the time stamp is 43
